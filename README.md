@@ -1,1 +1,0 @@
-# data-stucture-in-c
